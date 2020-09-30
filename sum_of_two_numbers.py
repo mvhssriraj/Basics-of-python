@@ -1,0 +1,5 @@
+x=input("enter number 1:\n")
+y=input("\nenter number 2:\n")
+z=int(x)+int(y)
+print("\nthe sum of the two numbers is:\n")
+print(z)
